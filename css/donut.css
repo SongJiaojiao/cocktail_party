@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+
+
+.chart {
+  position: absolute;
+  width: 450px;
+  height: 450px;
+  top: 51%;
+  left: 50%;
+  margin: -225px 0 0 -225px;
+}
+
+.doughnutTip {
+  position: absolute;
+  min-width: 30px;
+  max-width: 300px;
+  padding: 5px 15px;
+  border-radius: 1px;
+  background: rgba(0,0,0,.8);
+  color: #ddd;
+  font-size: 15px;
+  text-shadow: 0 1px 0 #000;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 1.3;
+  letter-spacing: .06em;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+  pointer-events: none;
+  &::after {
+      position: absolute;
+      left: 50%;
+      bottom: -6px;
+      content: "";
+      height: 0;
+      margin: 0 0 0 -6px;
+      border-right: 5px solid transparent;
+      border-left: 5px solid transparent;
+      border-top: 6px solid rgba(0,0,0,.7);
+      line-height: 0;
+  }
+}
+.doughnutSummary {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  color: #d5d5d5;
+  text-align: center;
+  text-shadow: 0 -1px 0 #111;
+  cursor: default;
+}
+
+.chart path:hover { opacity: 0.65; }
+
+
+.cocktail{
+    margin-top: 10%;
+    width:70%;
+}
+
+.doughnutSummaryTitle{
+   text-align: center;
+   position: absolute;
+   top: -90%;
+   width: 100%;
+   font-size: 25px;
+    
+}
+
+

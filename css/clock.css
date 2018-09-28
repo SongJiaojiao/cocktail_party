@@ -1,0 +1,125 @@
+
+@import url('https://fonts.googleapis.com/css?family=Quicksand|Courgette|Lobster+Two|Abril+Fatface|Lobster|Shrikhand');
+
+
+/*
+Layout
+*/
+
+
+
+body{
+    height:900px;
+    font-family: Quicksand;
+    font-size: 1.2rem;
+    font-weight: 300;
+    background: #23144D;
+}
+
+
+
+
+#bg_svg{
+    position: absolute;
+    display: inline;
+    width:70%;
+    height:900px;
+    background-color: #312f53;
+    z-index: 1;
+}
+
+
+#bg_panel{
+    text-align: center;
+    position: absolute;
+    margin-left: 70%;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    background-color:#443D6C;
+    width: 30%;
+    height:900px;
+    z-index: 2;
+    
+}
+
+
+
+h1,.h1{
+    color: white;
+    font-family: Quicksand;
+    font-size: 1.5em;
+    font-weight: 500;
+    margin-bottom: 20px;
+    margin-top: 30px;
+  
+}
+
+h2,.h2{
+    font-size: 2em;
+    font-weight: 300;
+}
+
+
+
+
+/*********************
+tag text
+*/
+p{
+    color:white; 
+    font-size: 1.2em; 
+    letter-spacing: 1px;
+    font-weight: 300;
+    height: 12px;
+}
+
+
+
+#canvas{
+    z-index: -20;
+}
+
+
+
+figure {
+  height: 500px;
+  width: 500px;
+}
+
+.outline {
+  stroke: white;
+  stroke-width: 1;
+}
+
+.second {
+  stroke: white;
+  stroke-width: 2;
+}
+
+.hour {
+  stroke: white;
+  stroke-width: 0;
+}
+
+.second-hand {
+  stroke: white;
+  stroke-width: 3;
+}
+
+.minute-hand {
+  stroke: white;
+  stroke-width: 8;
+  stroke-linecap: round;
+}
+
+.hour-hand {
+    
+  stroke: white;
+  stroke-width: 6;
+  stroke-linecap: round;
+}
+
+
+
+

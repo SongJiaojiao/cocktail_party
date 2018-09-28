@@ -1,0 +1,36 @@
+html{
+    height:100%;
+}
+
+body{
+    height:100%;
+    margin: 0 0;
+}
+
+.container{
+    position: relative;
+    width:100%;
+    height:100%;
+    z-index: 0;
+}
+
+
+#bg_svg{
+    position: absolute;
+    display: inline;
+    width:70%;
+    height:100%;
+    background-color: #312f53;
+    z-index: 1;
+    
+}
+
+#bg_panel{
+    position:absolute;
+    display: inline;
+    margin-left: 70%;
+    width:30%;
+    height:100%;
+    background-color:#443D6C;
+    z-index: 2;
+}

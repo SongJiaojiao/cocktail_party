@@ -1,0 +1,590 @@
+[
+
+	{
+		"name": "Mojito",
+		"type": "Long Drink",
+		"flavour": ["Lime-y", "Minty", "Sweet"],
+		"strength": "Light",
+		"emotion": ["Sing", "Unique"],
+		"time": ["Morning", "afternoon"],
+		"ck_img": "cocktail/Mojito.png",
+		"explanation": "Sometimes, all you <br> need is Mojito.",
+		"ingredient": [{
+				"name": "White Rum",
+				"portion": 28,
+				"label": "30%",
+				"color": "#FFFFFF",
+				"url": "icons/whiterum.png"
+			},
+			{
+				"name": "Sugar Syrup",
+				"portion": 5,
+				"label": "5%",
+				"color": "#FDAAB8",
+				"url": "icons/syrup.png"
+			},
+			{
+				"name": "Lime Juice",
+				"portion": 22,
+				"label": "23%",
+				"color": "#CCFFCF",
+				"url": "icons/lime.png"
+			},
+			{
+				"name": "Club Soda",
+				"portion": 40,
+				"label": "47%",
+				"color": "#79FFD0",
+				"url": "icons/soda.png"
+			},
+			{
+				"name": "Mint Leaves",
+				"portion": 5,
+				"label": "6 pieces",
+				"color": "#00CD5E",
+				"url": "icons/mint.png"
+			}
+		]
+	},
+
+	{
+		"name": "Sex On The Beach",
+		"type": "Long Drink",
+		"flavour": ["Juicy", "Sweet"],
+		"strength": "Medium",
+		"emotion": ["Sing", "Unique"],
+		"time": ["Morning", "Afternoon", "Evening"],
+		"ck_img": "cocktail/Sex On The Beach.png",
+		"explanation": "Toes in the sand and cocktail in hand... If you can't do both you can do one at least :P",
+		"ingredient": [{
+				"name": "Vodka",
+				"portion": 17,
+				"label": "17%",
+				"color": "#EDE0F9",
+				"url": "icons/vodka.png"
+			},
+			{
+				"name": "Peach Schnapps",
+				"portion": 17,
+				"label": "17%",
+				"color": "#FF999A",
+				"url": "icons/peach.png"
+			},
+			{
+				"name": "Cranberry Juice",
+				"portion": 34,
+				"label": "34%",
+				"color": "#EE005B",
+				"url": "icons/cranberry.png"
+			},
+			{
+				"name": "Orange Juice",
+				"portion": 34,
+				"label": "34%",
+				"color": "#FCD302",
+				"url": "icons/orange.png"
+			}
+		]
+	},
+
+	{
+		"name": "Screwdriver",
+		"type": "Short Drink",
+		"flavour": ["Juicy"],
+		"strength": "Light",
+		"emotion": ["crazy", "cry"],
+		"time": ["Morning", "Crazytime"],
+		"ck_img": "cocktail/Screwdriver.png",
+		"explanation": "'I read the instructions manual and it said I needed a large screwdriver. So I got out the vodka and orange juice, but eveerything after that remains a complete mystery...'",
+		"ingredient": [{
+				"name": "Vodka",
+				"portion": 33,
+				"label": "33%",
+				"color": "#EDE0F9",
+				"url": "icons/vodka.png"
+			},
+			{
+				"name": "Orange Juice",
+				"portion": 67,
+				"label": "67%",
+				"color": "#FCD302",
+				"url": "icons/orange.png"
+			}
+		]
+	},
+
+	{
+		"name": "Long Island Tea",
+		"type": "Long Drink",
+		"flavour": ["Juicy", "Sweet"],
+		"strength": "Medium",
+		"emotion": ["Sing", "Crazy"],
+		"time": "Morning",
+		"ck_img": "cocktail/Long Island Tea.png",
+		"explanation": "We only recommend you to drink tea, if it's from long island. ",
+		"ingredient": [{
+				"name": "Sugar syrup",
+				"portion": 4,
+				"label": "4%",
+				"color": "#FDAAB8",
+				"url": "icons/syrup.png"
+			},
+			{
+				"name": "Lemon Juice",
+				"portion": 24,
+				"label": "24%",
+				"color": "#FDFF00",
+				"url": "icons/lemon.png"
+			},
+			{
+				"name": "Vodka",
+				"portion": 24,
+				"label": "24%",
+				"color": "#EDE0F9",
+				"url": "icons/vodka.png"
+			},
+			{
+				"name": "Gin",
+				"portion": 24,
+				"label": "24%",
+				"color": "#C8FDF7",
+				"url": "icons/gin.png"
+			},
+			{
+				"name": "White Rum",
+				"portion": 24,
+				"label": "24%",
+				"color": "#FFFFFF",
+				"url": "icons/whiterum.png"
+			}
+		]
+	},
+	{
+		"name": "White Russian",
+		"type": "Short Drink",
+		"flavour": ["Sweet", "Chocolatey", "creamy"],
+		"strength": "Medium",
+		"emotion": ["Crazy", "Sing", "Cry"],
+		"time": ["Morning", "Afternoon", "Evening"],
+		"ck_img": "cocktail/White Russian.png",
+		"explanation": "'A one-stop source of alcohol, sugar, caffeine, and milk fat, the only legal substance it lacks is nicotine.' ",
+		"ingredient": [{
+				"name": "Vodka",
+				"portion": 37.5,
+				"label": "37.5%",
+				"color": "#EDE0F9",
+				"url": "icons/vodka.png"
+			},
+			{
+				"name": "Single Cream",
+				"portion": 25,
+				"label": "25%",
+				"color": "#FFFFFF",
+				"url": "icons/cream.png"
+			},
+			{
+				"name": "Kahlua",
+				"portion": 37.5,
+				"label": "37.5%",
+				"color": "#FF9129",
+				"url": "icons/kahlua.png"
+			}
+		]
+	},
+
+	{
+		"name": "Bloody Mary",
+		"type": "Long Drink",
+		"flavour": ["Spicy", "Bitter", "Sour"],
+		"strength": "Light",
+		"emotion": ["Crazy", "Unique"],
+		"time": "Morning",
+		"ck_img": "cocktail/Bloody Mary.png",
+		"explanation": "Bloody Mary counts as a vegetable, right?",
+		"ingredient": [{
+				"name": "Tomato Juice",
+				"portion": 75,
+				"label": "75%",
+				"color": "#FE6A85",
+				"url": "icons/tomato.png"
+			},
+			{
+				"name": "Lemon Juice",
+				"portion": 2,
+				"label": "2%",
+				"color": "#FDFF00",
+				"url": "icons/lemon.png"
+			},
+			{
+				"name": "Vodka",
+				"portion": 23,
+				"label": "23%",
+				"color": "#EDE0F9",
+				"url": "icons/vodka.png"
+			},
+			{
+				"name": "Salt",
+				"portion": 1,
+				"label": "a bit",
+				"color": "#FFFFFF",
+				"url": "icons/salt.png"
+			},
+			{
+				"name": "Tabasco",
+				"portion": 1,
+				"label": "a bit",
+				"color": "#FB4F02",
+				"url": "icons/tabasco.png"
+			},
+			{
+				"name": "White Pepper",
+				"portion": 1,
+				"label": "a bit",
+				"color": "#EBEBEB",
+				"url": "icons/pepper.png"
+			},
+			{
+				"name": "Worcester Sauce",
+				"portion": 0.5,
+				"label": "a bit",
+				"color": "#DC922D",
+				"url": "icons/sauce.png"
+			}
+		]
+	},
+
+
+	{
+		"name": "Rum and Coke",
+		"type": "Short Drink",
+		"flavour": ["Sweet", "Fresh"],
+		"strength": "Medium",
+		"emotion": ["Crazy", "Unique", "Sing"],
+		"time": ["Afternoon", "Evening"],
+		"ck_img": "cocktail/Rum and Coke.png",
+		"explanation": "Once you drink this, you will find your coke taste funny without rum in it.",
+		"ingredient": [{
+				"name": "Coke",
+				"portion": 67,
+				"label": "67%",
+				"color": "#E50000",
+				"url": "icons/coke.png"
+			},
+			{
+				"name": "White Rum",
+				"portion": 28,
+				"label": "28%",
+				"color": "#FFFFFF",
+				"url": "icons/whiterum.png"
+			},
+			{
+				"name": "Lime Juce (fresh!)",
+				"portion": 5,
+				"label": "5%",
+				"color": "#CCFFCF",
+				"url": "icons/lime.png"
+			}
+		]
+	},
+
+	{
+		"name": "The Blow Job",
+		"type": "Shots",
+		"flavour": ["Sweet", "Creamy"],
+		"strength": "Strong",
+		"emotion": ["Crazy", "Unique"],
+		"time": ["Evening", "Crazytime"],
+		"ck_img": "cocktail/The Blow Job.png",
+		"explanation": "You should have your hands held behind your back. Do it responsibly!",
+		"ingredient": [{
+				"name": "Vodka",
+				"portion": 25,
+				"label": "25%",
+				"color": "#EDE0F9",
+				"url": "icons/vodka.png"
+			},
+			{
+				"name": "Kahlua",
+				"portion": 25,
+				"label": "25%",
+				"color": "#FF9129",
+				"url": "icons/kahlua.png"
+			},
+			{
+				"name": "Whipped Cream",
+				"portion": 50,
+				"label": "50%",
+				"color": "#FFFFFF",
+				"url": "icons/cream.png"
+			}
+		]
+	},
+
+
+
+	{
+		"name": "Gin and Tonic",
+		"type": "Short Drink",
+		"flavour": ["Lime-y", "Fresh", "Bitter"],
+		"strength": "Strong",
+		"emotion": ["Cry", "Sing"],
+		"time": ["Afternoon", "Evening"],
+		"ck_img": "cocktail/Gin and Tonic.png",
+		"explanation": "When life hands you lemons, make a gin and tonic!",
+		"ingredient": [{
+				"name": "Gin",
+				"portion": 35,
+				"label": "35%",
+				"color": "#C8FDF7",
+				"url": "icons/gin.png"
+			},
+			{
+				"name": "Tonic",
+				"portion": 65,
+				"label": "65%",
+				"color": "#03D1FD",
+				"url": "icons/tonic.png"
+			}
+		]
+	},
+
+	{
+		"name": "Pina Colada",
+		"type": "Long Drink",
+		"flavour": ["Sweet", "Fresh"],
+		"strength": "Light",
+		"emotion": ["Sing"],
+		"time": ["Morning", "Afternoon", "Evening"],
+		"ck_img": "cocktail/Pina Colada.png",
+		"explanation": "You know, life is about balance. The good and the bad. The highs and the lows. The pina and the colada. ",
+		"ingredient": [{
+				"name": "White Rum",
+				"portion": 20,
+				"label": "20%",
+				"color": "#FFFFFF",
+				"url": "icons/whiterum.png"
+			},
+			{
+				"name": "Coconut Milk",
+				"portion": 20,
+				"label": "20%",
+				"color": "#B17847",
+				"url": "icons/coconut.png"
+			},
+			{
+				"name": "Pineapple Juice",
+				"portion": 60,
+				"label": "60%",
+				"color": "#FCFF78",
+				"url": "icons/pineapple.png"
+			}
+		]
+	},
+
+	{
+		"name": "Manhattan",
+		"type": "Short Drink",
+		"flavour": ["Sweet", "Bitter"],
+		"strength": "Strong",
+		"emotion": ["Cry", "Crazy"],
+		"time": ["Afternoon", "Evening"],
+		"ck_img": "cocktail/Manhattan.png",
+		"explanation": "Too much of almost anything is bad, but too much of a manhattan is barely enough.",
+		"ingredient": [{
+				"name": "Whisky",
+				"portion": 70,
+				"label": "70%",
+				"color": "#2EBDE5",
+				"url": "icons/whisky.png"
+			},
+			{
+				"name": "Rum",
+				"portion": 2,
+				"label": "a bit",
+				"color": "#FFA800",
+				"url": "icons/rum.png"
+			},
+			{
+				"name": "Red Vermouth",
+				"portion": 28,
+				"label": "28%",
+				"color": "#EC5C6E",
+				"url": "icons/vermouth.png"
+			}
+		]
+	},
+
+	{
+		"name": "Blue Margarita",
+		"type": "Short Drink",
+		"flavour": ["Lime-y", "Fresh", "Sweet"],
+		"strength": "Light",
+		"emotion": ["Sing", "Crazy", "Unique"],
+		"time": ["Morning", "Afternoon"],
+		"ck_img": "cocktail/Blue Margarita.png",
+		"explanation": "Margaritas make us sound smarter, dance better, feel amazing, and look like Shakira. Therefore, margaritas are a superfood. ",
+		"ingredient": [{
+				"name": "Tequila",
+				"portion": 30,
+				"label": "30%",
+				"color": "#02D6FF",
+				"url": "icons/tequila.png"
+			},
+			{
+				"name": "Triple Sec",
+				"portion": 15,
+				"label": "15%",
+				"color": "#63FFC5",
+				"url": "icons/triple.png"
+			},
+			{
+				"name": "Lime Juce",
+				"portion": 15,
+				"label": "15%",
+				"color": "#CCFFCF",
+				"url": "icons/lime.png"
+			},
+			{
+				"name": "Blue Curacao",
+				"portion": 15,
+				"label": "15%",
+				"color": "#5282FF",
+				"url": "icons/blue.png"
+			},
+			{
+				"name": "Sugar",
+				"portion": 5,
+				"label": "a bit",
+				"color": "#FDAAB8",
+				"url": "icons/sugar.png"
+			},
+			{
+				"name": "Salt",
+				"portion": 2.5,
+				"label": "a bit",
+				"color": "#FFFFFF",
+				"url": "icons/salt.png"
+			}
+		]
+	},
+
+	{
+		"name": "Tropical Dream",
+		"type": "Long Drink",
+		"flavour": ["Creamy", "Juicy", "Sweet"],
+		"strength": "Medium",
+		"emotion": ["Sing", "Unique"],
+		"time": ["Afternoon", "Evening"],
+		"ck_img": "cocktail/Tropical Dream.png",
+		"explanation": "Toes in the sand and cocktail in hand... if you can't do both you can do one at least :P",
+		"ingredient": [{
+				"name": "White Rum",
+				"portion": 25,
+				"label": "25%",
+				"color": "#FFFFFF",
+				"url": "icons/whiterum.png"
+			},
+			{
+				"name": "Mint Liqueur",
+				"portion": 25,
+				"label": "25%",
+				"color": "#79FFD0",
+				"url": "icons/mint.png"
+			},
+			{
+				"name": "Coconut Cream",
+				"portion": 1,
+				"label": "a bit",
+				"color": "#FFFFFF",
+				"url": "icons/cream.png"
+			},
+			{
+				"name": "Pineapple Juice",
+				"portion": 3,
+				"label": "a splash",
+				"color": "#FCFF78",
+				"url": "icons/pineapple.png"
+			},
+			{
+				"name": "Crème de Bananes",
+				"portion": 10,
+				"label": "10%",
+				"color": "#FFF5C5",
+				"url": "icons/cream.png"
+			},
+			{
+				"name": "Banana",
+				"portion": 5,
+				"label": "half",
+				"color": "#FFDA66",
+				"url": "icons/banana.png"
+			}
+		]
+	},
+
+	{
+		"name": "Caipiriha",
+		"type": "Short Drink",
+		"flavour": ["Sweet"],
+		"strength": "Strong",
+		"emotion": ["Cry", "Unique"],
+		"time": "Evening",
+		"ck_img": "cocktail/Caipiriha.png",
+		"explanation": "The Brazilian cocktail, once used to cure symptoms of the Spanish Flu, is recommendable to consume for 'medical purposes'",
+		"ingredient": [{
+				"name": "Cachaca",
+				"portion": 85,
+				"label": "85%",
+				"color": "#B0EA9D",
+				"url": "icons/cachaca.png"
+			},
+			{
+				"name": "Lime Wedges",
+				"portion": 13,
+				"label": "4 slices",
+				"color": "#09CD00",
+				"url": "icons/lime.png"
+			},
+			{
+				"name": "Sugar",
+				"portion": 2,
+				"label": "a pinch",
+				"color": "#FDAAB8",
+				"url": "icons/sugar.png"
+			}
+		]
+	},
+
+	{
+		"name": "Alexander",
+		"type": "Short Drink",
+		"flavour": ["Sweet", "Chocolatey"],
+		"strength": "Strong",
+		"emotion": ["Cry", "Crazy","Unique"],
+		"time": ["Evening", "Afternoon"],
+		"ck_img": "cocktail/Alexander.png",
+		"explanation": "'I meditate, I do yoga dn I have a lot of friends who are healers... And if none of that works, I go buy a chocolate bar and a bottle of cognac.'",
+		"ingredient": [{
+				"name": "Cognac",
+				"portion": 33,
+				"label": "33%",
+				"color": "#FFCEC5",
+				"url": "icons/cognac.png"
+			},
+			{
+				"name": "Dark Crème de Cacao",
+				"portion": 33,
+				"label": "33%",
+				"color": "#69321A",
+				"url": "icons/cremecacao.png"
+			},
+			{
+				"name": "Cream",
+				"portion": 33,
+				"label": "33%",
+				"color": "#FFFFFF",
+				"url": "icons/cream.png"
+			}
+		]
+	}
+]

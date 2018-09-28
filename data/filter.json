@@ -1,5 +1,5 @@
 { 
-    "time": ["Morning","Afternoon","Evening","Crazy Time"],
-    "flavour":["Sweet","Spicy","Minty","Creamy","Bitter"],
-    "emotion":["Happy","Sad"]
+    "time": ["Morning","Afternoon","Evening","CrazyTime"],
+    "flavour":["Sweet","Spicy","Minty","Creamy","Bitter","Lime-y","Juice"],
+    "emotion":["Cry","Crazy","Sing","Unique"]
 }
